@@ -1,16 +1,19 @@
-### Hi there 👋
+Olá! 👋 Eu sou Mikael
+Python AWS Power BI JavaScript HTML5 CSS3
 
-<!--
-**kamamijr/kamamijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
+Sou um estudante de Engenharia de Software na Universidade Federal de Goiás (UFG) e atualmente trabalho como Analista de Dados, combinando habilidades em Engenharia de Dados, AWS, Python, JavaScript, HTML5, CSS3 e Power BI.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato
+📧 Email: mikaeljunior.dev@gmail.com
+💼 LinkedIn: Mikael Junior
+Habilidades
+Desenvolvimento: Front-end (Nível Júnior), Back-end (Nível Júnior)
+dados:
+API e Integração:
+Desenvolvimento e documentação de APIs
+Request de dados em tempo real e automatizado
+Engenharia de Dados:
+Fluxo de dados para Data Lake
+Manipulação e análise de dados
+Integração com bancos de dados
