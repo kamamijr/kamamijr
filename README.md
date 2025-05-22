@@ -2,29 +2,57 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC6F26?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Sobre Mim
 
-Sou um estudante de Engenharia de Software na Universidade Federal de Goiás (UFG) e atualmente trabalho como Analista de Dados, combinando habilidades em Engenharia de Dados, AWS, Python, JavaScript, HTML5, CSS3 e Power BI.
+Sou graduando em Engenharia de Software pela UFG e, atualmente, atuo como Engenheiro de Dados Pleno no CEIA. Tenho sólida experiência em orquestração de pipelines (Airflow), processamento em batch e streaming (Spark, Kafka), e desenvolvimento de soluções na nuvem (AWS, Azure, GCP). Gosto de transformar grandes volumes de dados em insights através de ETL automatizado, monitoramento (Grafana, CloudWatch) e visualização (Metabase, Power BI).
 
 ## Contato
 
-- 📧 Email: [mikaeljunior.dev@gmail.com](mailto:mikaeljunior.dev@gmail.com)
-- 💼 LinkedIn: [Mikael Junior](www.linkedin.com/in/mikael-borges-b58356241)
+- 📧 Email: [mikaeljunior.dev@gmail.com](mailto:mikaeljunior.dev@gmail.com)  
+- 💼 LinkedIn: [Mikael Borges](https://www.linkedin.com/in/mikael-borges-b58356241)  
 
+## Habilidades Técnicas
 
-## Habilidades
+- **Linguagens & Bancos**  
+  - Python (POO, scripting ETL)  
+  - SQL avançado (tuning, otimização)  
+  - PostgreSQL, Athena  
 
-- Desenvolvimento: Front-end (Nível Júnior), Back-end (Nível Júnior)
-- dados:
-  - **API e Integração:**
-    - Desenvolvimento e documentação de APIs
-    - Request de dados em tempo real e automatizado
-  - **Engenharia de Dados:**
-    - Fluxo de dados para Data Lake
-    - Manipulação e análise de dados
-    - Integração com bancos de dados
+- **Orquestração & Processamento**  
+  - Apache Airflow (DAGs, scheduling, monitoring)  
+  - Apache Spark & PySpark (batch e streaming)  
+  - Apache Kafka (ingestão em tempo real)  
+
+- **Cloud & Big Data**  
+  - AWS (S3, EC2, Lambda, Glue, Kinesis, IAM, CloudWatch)  
+  - Azure (Data Lake, Synapse, Functions)  
+  - GCP (BigQuery, Dataflow, Pub/Sub)  
+  - Databricks  
+
+- **ETL & Pipelines**  
+  - Desenvolvimento end-to-end de pipelines (batch/streaming)  
+  - AWS Glue (catálogo, jobs ETL)  
+  - Automação com scripts Python e batch files  
+  - Testes unitários e de integração em dados  
+
+- **APIs & Integrações**  
+  - REST & SOAP (desenvolvimento e consumo)  
+  - Amazon API Gateway  
+
+- **Visualização & Monitoramento**  
+  - Power BI, Metabase, Grafana  
+  - Dashboards, alertas e SLAs de execução  
+
+- **Governança & Segurança**  
+  - LGPD e políticas de data governance  
+  - Políticas de acesso e roles (AWS IAM)  
+
+- **DevOps & Metodologias**  
+  - Docker (containerização)  
+  - CI/CD (Git, pipelines de deploy)  
+  - Scrum / Kanban  
